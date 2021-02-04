@@ -1,0 +1,97 @@
+
+body {
+    background-image: url("/img/lexus-lc8.jpg");
+    background-size: cover;
+    background-size: no-repeat;
+    position: relative;
+    display: block;
+}
+
+.full {
+    display: block;
+}
+.butbody {
+    background-color: #00CED1;
+    position: relative;
+    border-color: black;
+    border: 1px;
+    width: 25%;
+    justify-content: center;
+    padding-top: 0%;
+}
+
+.butt {
+    justify-content: center;
+    width: 300px;
+    height: 50px;
+    margin-top: 15px;
+}
+
+.butt:hover {
+    border-radius: 5px 40% 50px;
+    color: white;
+    background-color: darkblue;
+}
+
+.rowleft{
+border-radius: 10px;
+    position: absolute;
+    justify-content: center;
+    align-content: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    background-color: white;
+    box-shadow: 0.4em 0.4em 5px rgb(122, 122, 122);
+    width: 340px;
+    height: 550px;
+}
+
+#bild {
+    width: 200px;
+}
+
+.border{
+              border-radius: 5px;
+              justify-content: center;
+              align-content: flex-end;
+              padding-left: 10px;
+              padding-right: 10px;
+              padding-top: 10px;
+              box-shadow: 0.4em 0.4em 5px rgb(122, 122, 122);
+              width: 2200px;
+              height: 40px;
+}
+
+.butt1 {
+    border-radius: 5px;
+    background-color: darkred;
+    color: white;
+    width: 300px;
+    height: 50px;
+    margin-top: 50px;
+}
+
+.butt1:hover {
+    background-color: #FF0000;
+    border-radius: 5px 40% 3px;
+}
+
+#photo {
+    justify-content: center;
+    width: 69px;
+    border-radius: 50%;
+    border: 1px solid;
+    margin-left: 259px;
+    margin-top: -9px;
+}
+
+body{
+    display: flex;
+}
+.nav-line{
+    justify-content:space-around;
+}
+@media screen and (max-width: 1280px) { div.contentblock {width: 1200px;} }
+@media screen and (max-width: 1140px) { div.contentblock {width: 1024px;} }
+@media screen and (max-width: 992px) { div. contentblock {width: 970px;} }

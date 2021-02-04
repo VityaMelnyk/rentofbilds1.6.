@@ -1,0 +1,10 @@
+/*<div class="butbody">*/
+/*                    <button class="butt" onclick="window.location.href = '/web/client/list'">TABLE Client</button>*/
+/*<!--<a href="/web/client/list" class="button">TABLE Client</a>-->*/
+/*<button class="butt" onclick="window.location.href = '/web/item/all'">TABLE item</button>*/
+/*<!--<a href="/web/item/all" class="button">Table item</a><br>-->*/
+/*<button class="butt" onclick="window.location.href = '/api/client/list'">REST API Client</button>*/
+/*<!--<a href="/api/client/list" class="button">REST API Client</a><br>-->*/
+/*<button class="butt" onclick="window.location.href = '/api/item/get/all'">Rest API items</button>*/
+/*<!--<a href="/api/item/all" class="button">Rest API items</a><br>-->*/
+/*</div>*/
