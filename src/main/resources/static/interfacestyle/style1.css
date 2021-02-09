@@ -2,7 +2,6 @@
 body {
     background-image: url("/img/lexus-lc8.jpg");
     background-size: cover;
-    background-size: no-repeat;
     position: relative;
     display: block;
 }
@@ -92,6 +91,12 @@ body{
 .nav-line{
     justify-content:space-around;
 }
-@media screen and (max-width: 1280px) { div.contentblock {width: 1200px;} }
-@media screen and (max-width: 1140px) { div.contentblock {width: 1024px;} }
-@media screen and (max-width: 992px) { div. contentblock {width: 970px;} }
+@media screen and (max-width: 1280px) {
+}
+@media screen and (max-width: 1140px) {
+}
+@media screen and (max-width: 992px) { div. contentblock {width: 992px;} }
+@media screen and (max-width: 768px) { div. contentblock {width: 768px;} }
+@media screen and (max-width: 480px) { div. contentblock {width: 480px;} }
+@media screen and (max-width: 320px) { div. contentblock {width: 320px;} }
+
